@@ -11,13 +11,13 @@ namespace Lab2
            Lab2    
         */        
         //Part1
-        	  int myInt = 0;
+        	int myInt = 0;
             double myDouble = 0.00000D;
             float myFloat = 0.00F;
             char myChar = '0';
             bool myBool = false;
             string myString = "\"undefined\"";
-			      Console.WriteLine("Part 1: Variable Declaration");
+			Console.WriteLine("Part 1: Variable Declaration");
             Console.WriteLine("myInt = " + myInt);
             Console.WriteLine("myDbouble = " + myDouble);
             Console.WriteLine("myFloat = " + myFloat);
@@ -32,11 +32,11 @@ namespace Lab2
             Console.WriteLine("Part 2: Type Casting");
             Console.WriteLine("myDouble = " + myDouble);            
             Console.WriteLine("myInt = " + myInt);
-		        Console.WriteLine("\"myInt\"  as string: " + Convert.ToString(myInt));
+		    Console.WriteLine("\"myInt\"  as string: " + Convert.ToString(myInt));
             Console.WriteLine("\"myBool\" as string: " + Convert.ToString(myBool));
             Console.WriteLine(); //add a blank line between sections
             
-         //Part3
+        //Part3
             Console.WriteLine("Part 3: User Input and Type Conversion");
             Console.WriteLine("Enter your name....");
             string userName = Console.ReadLine();
@@ -45,7 +45,7 @@ namespace Lab2
             Console.WriteLine($"Hello {userName}, I see that you are {intAge} years old"); 
             Console.WriteLine(); //add a blank line between sections
             
-          //Part4
+        //Part4
             int num1 = 10; //use a positive value to prevent decimals
             int num2 = 12; //use a positive value to prevent deciamls
             Console.WriteLine("Part 4: Arithmetic Operators");
@@ -63,7 +63,7 @@ namespace Lab2
             Console.WriteLine("Divide \"num2\" by 2      = " + (num2 / 2));
             Console.WriteLine("Modulus 2 of \"num2\"     = " + (num2 % 2));  
             Console.WriteLine();
-          //Part5
+        //Part5
             float myFloat2 = 1.123456789F;
             double myDouble2 = 1.123456789D;
             Console.WriteLine("Part 5: Floating Point Precision");
@@ -71,7 +71,7 @@ namespace Lab2
             Console.WriteLine(myDouble2);
             Console.WriteLine("(The Float variable rounded the 7th digit)");
             Console.WriteLine(); 
-          //Part6
+        //Part6
             int myInt2 = 10;
             Console.WriteLine("Part 6: Increment and Decrement"); 
             Console.WriteLine("myInt2 initial value   = " + myInt2);
