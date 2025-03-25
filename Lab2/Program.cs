@@ -1,4 +1,4 @@
-﻿using System:
+﻿using System;
 
 namespace Lab2
 {
@@ -6,20 +6,18 @@ namespace Lab2
     {
         static void Main(string[] args)
         { 
-        /
         /* IT-1050
            Brian Kummerer
            Lab2    
-        */
-        
+        */        
         //Part1
-        	int myInt = 0;
+        	  int myInt = 0;
             double myDouble = 0.00000D;
             float myFloat = 0.00F;
             char myChar = '0';
             bool myBool = false;
             string myString = "\"undefined\"";
-			Console.WriteLine("Part 1: Variable Declaration");
+			      Console.WriteLine("Part 1: Variable Declaration");
             Console.WriteLine("myInt = " + myInt);
             Console.WriteLine("myDbouble = " + myDouble);
             Console.WriteLine("myFloat = " + myFloat);
@@ -34,7 +32,7 @@ namespace Lab2
             Console.WriteLine("Part 2: Type Casting");
             Console.WriteLine("myDouble = " + myDouble);            
             Console.WriteLine("myInt = " + myInt);
-		    Console.WriteLine("\"myInt\"  as string: " + Convert.ToString(myInt));
+		        Console.WriteLine("\"myInt\"  as string: " + Convert.ToString(myInt));
             Console.WriteLine("\"myBool\" as string: " + Convert.ToString(myBool));
             Console.WriteLine(); //add a blank line between sections
             
