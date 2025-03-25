@@ -11,13 +11,13 @@ namespace Lab2
            Lab2    
         */        
         //Part1
-        	int myInt = 0;
+            int myInt = 0;
             double myDouble = 0.00000D;
             float myFloat = 0.00F;
             char myChar = '0';
             bool myBool = false;
             string myString = "\"undefined\"";
-			Console.WriteLine("Part 1: Variable Declaration");
+	    Console.WriteLine("Part 1: Variable Declaration");
             Console.WriteLine("myInt = " + myInt);
             Console.WriteLine("myDbouble = " + myDouble);
             Console.WriteLine("myFloat = " + myFloat);
@@ -26,13 +26,13 @@ namespace Lab2
             Console.WriteLine("myString = " + myString);
             Console.WriteLine(); //add a blank line between sections
 
-		//Part2
+	//Part2
             myDouble = 9.78d;
             myInt = (int) myDouble;
             Console.WriteLine("Part 2: Type Casting");
             Console.WriteLine("myDouble = " + myDouble);            
             Console.WriteLine("myInt = " + myInt);
-		    Console.WriteLine("\"myInt\"  as string: " + Convert.ToString(myInt));
+	    Console.WriteLine("\"myInt\"  as string: " + Convert.ToString(myInt));
             Console.WriteLine("\"myBool\" as string: " + Convert.ToString(myBool));
             Console.WriteLine(); //add a blank line between sections
             
