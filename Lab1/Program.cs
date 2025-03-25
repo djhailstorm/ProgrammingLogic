@@ -29,7 +29,7 @@ class Program
         } 
     //Step 5
     const string schoolName = "Cuyahoga Community College";
-    Console.Write(schoolName);
+    Console.WriteLine(schoolName);
 
   }
 
