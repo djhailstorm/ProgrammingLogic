@@ -48,7 +48,7 @@ namespace Lab3
 
         //Part3
             Console.WriteLine("What's your age?");
-            int age= int.Parse(Console.ReadLine());  
+            int age = int.Parse(Console.ReadLine());  
             if (age <5)
             {
                 Console.WriteLine("Ticket is free!");
