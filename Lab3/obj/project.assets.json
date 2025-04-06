@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab1/Lab1.csproj",
-      "projectName": "Lab1",
-      "projectPath": "/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab1/Lab1.csproj",
+      "projectUniqueName": "/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab3/Lab3.csproj",
+      "projectName": "Lab3",
+      "projectPath": "/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab3/Lab3.csproj",
       "packagesPath": "/Users/bkummerer/.nuget/packages/",
-      "outputPath": "/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab1/obj/",
+      "outputPath": "/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bkummerer/.nuget/NuGet/NuGet.Config"

@@ -19,11 +19,11 @@ class Program
     Console.WriteLine("My favorite number is " + favoriteNumber);
     Console.WriteLine("My favorite Programming Language is " + favoriteLanguage);
     Console.WriteLine("I have previously written over " + previousPrograms + " Programs");
-    if (programmingExp = true)
+    if (programmingExp == true)
         {
         Console.WriteLine("I do have previous Programming Experience");
         } 
-    else if (programmingExp = false) 
+    else if (programmingExp == false) 
         {
         Console.WriteLine("I do not have previous Programming Experience");    
         } 

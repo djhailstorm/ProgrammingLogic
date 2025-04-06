@@ -32,7 +32,7 @@ namespace Lab2
             Console.WriteLine("Part 2: Type Casting");
             Console.WriteLine("myDouble = " + myDouble);            
             Console.WriteLine("myInt = " + myInt);
-	    Console.WriteLine("\"myInt\"  as string: " + Convert.ToString(myInt));
+	        Console.WriteLine("\"myInt\"  as string: " + Convert.ToString(myInt));
             Console.WriteLine("\"myBool\" as string: " + Convert.ToString(myBool));
             Console.WriteLine(); //add a blank line between sections
             
