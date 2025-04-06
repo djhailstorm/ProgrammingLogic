@@ -7,7 +7,7 @@ namespace Lab3
         { 
         /* IT-1050
            Brian Kummerer
-           Lab2    
+           Lab3    
         */        
         //Part1
             int a = 10;
