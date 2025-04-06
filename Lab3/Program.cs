@@ -24,12 +24,12 @@ namespace Lab3
                 Console.WriteLine("a < c: " + result2);
             } 
    
-             String result3 = (a > b && a > c) ? "True" : "False";
+            String result3 = (a > b && a > c) ? "True" : "False";
             {
                 Console.WriteLine("a > b && a > c: " + result3);
             } 
  
-              String result4 = (a > b || a > c) ? "True" : "False";
+            String result4 = (a > b || a > c) ? "True" : "False";
             {
                 Console.WriteLine("a > b || a > c: " + result4);
             } 
