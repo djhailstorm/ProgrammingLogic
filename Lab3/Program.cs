@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Security.Principal;
-
-namespace Lab2
+namespace Lab3
 {
     class Program
     {
