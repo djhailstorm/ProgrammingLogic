@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Security;
+
 namespace Lab4
 {
     class Program
