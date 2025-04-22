@@ -29,7 +29,7 @@ namespace Lab5
             {
 
                 d = int.Parse(Console.ReadLine());
-                if (d < 1 || d > 7)
+                if (d < 1 || d > 7) //if statement will give a conditional output stating invalid input and ask for re-entry 
                 {
                     Console.WriteLine("Invalid Entry! Please enter a value between 1 and 7");
                 } 
