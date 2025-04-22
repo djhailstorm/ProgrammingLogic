@@ -65,6 +65,7 @@ namespace Lab5
         //Part5
             Console.WriteLine("Problem 5: Reverse Countdown"); //part 5 title
             int[] countdown = {5, 4, 3, 2, 1 };
+            Array.Sort(countdown); // not really needed here because it's already sorted
             Array.Reverse(countdown);
             Console.Write("Countdown: " );
             foreach (int i in countdown)
