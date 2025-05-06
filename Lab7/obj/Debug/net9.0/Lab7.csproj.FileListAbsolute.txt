@@ -1,0 +1,15 @@
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab7/bin/Debug/net9.0/Lab7
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab7/bin/Debug/net9.0/Lab7.deps.json
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab7/bin/Debug/net9.0/Lab7.runtimeconfig.json
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab7/bin/Debug/net9.0/Lab7.dll
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab7/bin/Debug/net9.0/Lab7.pdb
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab7/obj/Debug/net9.0/Lab7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab7/obj/Debug/net9.0/Lab7.AssemblyInfoInputs.cache
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab7/obj/Debug/net9.0/Lab7.AssemblyInfo.cs
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab7/obj/Debug/net9.0/Lab7.csproj.CoreCompileInputs.cache
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab7/obj/Debug/net9.0/Lab7.sourcelink.json
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab7/obj/Debug/net9.0/Lab7.dll
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab7/obj/Debug/net9.0/refint/Lab7.dll
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab7/obj/Debug/net9.0/Lab7.pdb
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab7/obj/Debug/net9.0/Lab7.genruntimeconfig.cache
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab7/obj/Debug/net9.0/ref/Lab7.dll
