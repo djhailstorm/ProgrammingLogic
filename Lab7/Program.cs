@@ -68,17 +68,17 @@ namespace Lab7
             Console.WriteLine();
             
             Console.WriteLine("Problem 3"); 
-            Book book3 = new Book("Advanced C#", "John Doe");
+            Book book3 = new Book("Advanced C#", "John Doe"); // Constructor Overload 
             Console.WriteLine("Title: " + book3.GetTitle());
-            Console.WriteLine("Author: " + book3.GetAuthor());
+            Console.WriteLine("Author: " + book3.GetAuthor()); 
             Console.WriteLine();
 
             Console.WriteLine("Problem 4");
             Book book4 = new Book();          
             book4.SetTitle("Mastering C#"); // Setter for Title
-            book4.SetAuthor("Jane Smith");  //Setter for Author's name/
-            Console.WriteLine("Title: " + book4.GetTitle());  //Getter for Title
-            Console.WriteLine("Author: " + book4.GetAuthor()); //Getter for Author             
+            book4.SetAuthor("Jane Smith");  // Setter for Author's name/
+            Console.WriteLine("Title: " + book4.GetTitle());  // Getter for Title
+            Console.WriteLine("Author: " + book4.GetAuthor()); // Getter for Author             
 
 
         }
