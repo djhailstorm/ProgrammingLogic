@@ -1,0 +1,15 @@
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab8/bin/Debug/net9.0/Lab8
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab8/bin/Debug/net9.0/Lab8.deps.json
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab8/bin/Debug/net9.0/Lab8.runtimeconfig.json
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab8/bin/Debug/net9.0/Lab8.dll
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab8/bin/Debug/net9.0/Lab8.pdb
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab8/obj/Debug/net9.0/Lab8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab8/obj/Debug/net9.0/Lab8.AssemblyInfoInputs.cache
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab8/obj/Debug/net9.0/Lab8.AssemblyInfo.cs
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab8/obj/Debug/net9.0/Lab8.csproj.CoreCompileInputs.cache
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab8/obj/Debug/net9.0/Lab8.sourcelink.json
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab8/obj/Debug/net9.0/Lab8.dll
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab8/obj/Debug/net9.0/refint/Lab8.dll
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab8/obj/Debug/net9.0/Lab8.pdb
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab8/obj/Debug/net9.0/Lab8.genruntimeconfig.cache
+/Users/bkummerer/Library/CloudStorage/SynologyDrive-Drive/Programming/Github/ProgrammingLogic/Lab8/obj/Debug/net9.0/ref/Lab8.dll

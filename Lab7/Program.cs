@@ -6,7 +6,7 @@ namespace Lab7
 {
     /* IT-1050
     Brian Kummerer
-    Lab67
+    Lab7
     */       
     class Book
     {
